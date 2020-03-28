@@ -9,4 +9,4 @@ tags:
   - Data Analytics
 ---
 
-XGBOOST 실습 강의 : https://programmers.co.kr/learn/courses/21/lessons/1847#
+XGBOOST 실습 강의 : [https://programmers.co.kr/learn/courses/21/lessons/1847#]
