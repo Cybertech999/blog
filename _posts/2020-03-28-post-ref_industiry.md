@@ -17,4 +17,4 @@ FICO score : http://blog.koreadaily.com/view/myhome.html?fod_style=B&med_usrid=x
 
 Auto Loan vs. Auto Lease : https://www.ameriprise.com/auto-home-insurance/aah/learning-center/auto/car-buying/auto-loan-vs-auto-lease/
 
-리스 만기 차량 리턴 : https://hongikstory.tistory.com/48
+리스 만기 차량 리턴 : https://hongikstory.tistory.com/48  ※ 도요타는 반납 후 인스펙션하여 사용자가 편한 반면, 혼다는 반납 전 인스펙션으로 불편
