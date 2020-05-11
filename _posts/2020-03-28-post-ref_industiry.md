@@ -16,3 +16,5 @@ FICO score : http://blog.koreadaily.com/view/myhome.html?fod_style=B&med_usrid=x
 “What Credit Score is Needed to Lease a Car?” Minimum Approval Score (2020) : https://www.badcredit.org/how-to/what-credit-score-is-needed-to-lease-a-car/
 
 Auto Loan vs. Auto Lease : https://www.ameriprise.com/auto-home-insurance/aah/learning-center/auto/car-buying/auto-loan-vs-auto-lease/
+
+리스 만기 차량 리턴 : https://hongikstory.tistory.com/48
